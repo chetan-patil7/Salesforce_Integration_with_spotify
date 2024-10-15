@@ -36,4 +36,4 @@ This project integrates Salesforce with the Spotify API to retrieve artist infor
 ### Step 3: Implement the Apex Class
 
 1. Open your Salesforce project in VSCode.
-2. Create a new Apex class called `SpotifyService`:
+2. Create a new Apex class called [`SpotifyService`](force-app/main/default/classes/SpotifyService.cls):
