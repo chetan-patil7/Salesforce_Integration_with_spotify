@@ -30,7 +30,7 @@ This project integrates Salesforce with the Spotify API to retrieve artist infor
 3. Click **New Remote Site**.
 4. Enter the following details:
    - **Remote Site Name**: Spotify
-   - **Remote Site URL**: `https://api.spotify.com` and 'https://accounts.spotify.com'
+   - **Remote Site URL**: `https://api.spotify.com` and `https://accounts.spotify.com`
 5. Save the settings.
 
 ### Step 3: Implement the Apex Class
