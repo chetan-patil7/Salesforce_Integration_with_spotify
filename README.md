@@ -57,7 +57,7 @@ Notes
     Ensure that you handle errors appropriately in production applications to enhance user experience.
 
 ### Acknowledgements
-['Spotify Api Documentation'](https://developer.spotify.com/documentation/web-api)
+[Spotify Api Documentation](https://developer.spotify.com/documentation/web-api)
 <br>
-['Salesforce Developer Documentation'](https://developer.salesforce.com/docs)
+[Salesforce Developer Documentation](https://developer.salesforce.com/docs)
 
