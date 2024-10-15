@@ -58,5 +58,6 @@ Notes
 
 ### Acknowledgements
 ['Spotify Api Documentation'](https://developer.spotify.com/documentation/web-api)
+<br>
 ['Salesforce Developer Documentation'](https://developer.salesforce.com/docs)
 
